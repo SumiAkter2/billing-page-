@@ -1,36 +1,42 @@
 [
     {
-        "full-name": "Najim Uddin",
+        "id": 1,
+        "name": "Najim Uddin",
         "email": "najimUddin@gmail.com",
         "phone": "017888888",
         "paid": "10,000tk"
     },
     {
-        "full-name": "kajim Uddin",
+        "id": 2,
+        "name": "kajim Uddin",
         "email": "kajimUddin@gmail.com",
         "phone": "017888888",
         "paid": "20,000tk"
     },
     {
-        "full-name": "Najma ",
+        "id": 3,
+        "name": "Najma ",
         "email": "najma@gmail.com",
         "phone": "017888888",
         "paid": "10,000tk"
     },
     {
-        "full-name": "jim Babu",
+        "id": 4,
+        "name": "jim Babu",
         "email": "jimbabu@gmail.com",
         "phone": "017888888",
         "paid": "50,000tk"
     },
     {
-        "full-name": "Rimjim ",
+        "id": 5,
+        "name": "Rimjim ",
         "email": "Rimjim@gmail.com",
         "phone": "017888888",
         "paid": "30,000tk"
     },
     {
-        "full-name": "Jimi ",
+        "id": 6,
+        "name": "Jimi ",
         "email": "Jimi@gmail.com",
         "phone": "017888888",
         "paid": "40,000tk"
